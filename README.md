@@ -123,9 +123,6 @@ values (2008, 2009, 81, 'best supporting actress', 'viola davis', 'doubt', '0');
 insert into movies (year_film, year_ceremony, ceremony, category, name, film, winner)
 values (2002, 2003, 75, 'best actress', 'salma hayek', 'frida', '0');
 
--- agora vamos falar da sua vida. 
--- me diga o nome de uma pessoa que você admira e o que ela fez na sua vida. 
--- agora me diz: quê prêmio essa pessoa merece? 
 
 
 
