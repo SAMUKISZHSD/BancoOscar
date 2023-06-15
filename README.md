@@ -2,7 +2,7 @@
 Aqui você encontrará atividades propostas para o estudo de Banco de Dados. Elas foram feitas utilizando o MySQL Workbench.
 Decidi coloca-las em um único repositório para poder acompanhar meu desemvolvimento na matéria conforme as realizo.
 
-* [E o Oscar vai para... ?](#oscar)
+
 
 <div id="oscar"/>
 
