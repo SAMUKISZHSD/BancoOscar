@@ -3,7 +3,6 @@ Aqui você encontrará atividades propostas para o estudo de Banco de Dados. Ela
 Decidi coloca-las em um único repositório para poder acompanhar meu desemvolvimento na matéria conforme as realizo.
 
 * [E o Oscar vai para... ?](#oscar)
-* [O Faxineiro Implacável](#faxineiro)
 
 <div id="oscar"/>
 
