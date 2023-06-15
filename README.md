@@ -201,12 +201,6 @@ INSERT INTO movies (year_film, year_ceremony, ceremony, category, `name`, film, 
 VALUES ('2023', '2024', '96', 'ACTRESS', 'Eziládia Araújo', 'Everything Everywhere All at Once', '1');
 ```
 
-<br>
-<div align="center">
-<img src='https://github.com/gabrielaasouza/Atividades-de-Banco-de-Dados/blob/main/Imagens/Oscar_2023.png' width="50%"/>
-</div>
-
-<div id="faxineiro"/>
 
 
 
